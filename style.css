@@ -16,7 +16,7 @@ ul {
   margin: auto;
 }
 li {
-  margin: 10px 0;
+  margin: 10px auto;
 }
 
 a {
@@ -29,6 +29,10 @@ a:hover {
   color: #005f8a;
 }
 .centrari{
+  width: 300px;
   margin: 0 auto;
   
+}
+p{
+  text-align: justified;
 }
